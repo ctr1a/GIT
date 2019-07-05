@@ -8,3 +8,4 @@ hello win 10
 "stash use" 
 "123"
 ok add it. 2019
+"local add ok it?" 
